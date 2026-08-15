@@ -1,74 +1,22 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/igormassar0/igormassar0/main/assets/header.svg?v=2" alt="igor massaro — vibe coder, analista de sistemas" width="100%">
 
-<img src="https://raw.githubusercontent.com/igormassar0/igormassar0/main/assets/banner.svg?v=1" alt="Igor Massaro — Analista de Sistemas e AI Builder" width="100%">
+**Analista de Suporte e Sistemas há mais de 10 anos.** Hoje construo software com agentes de IA — apps desktop, automações e web.
 
-</div>
+Uma década resolvendo o que quebra em produção me deixou uma vantagem no vibe coding: sei reconhecer quando o código gerado não vai aguentar o mundo real. Prompt é o começo, não a entrega.
 
-<br>
+Pós-graduando em **Engenharia de IA** na Impacta · Formado em Sistemas para Internet.
 
-```console
-igor@sistemas:~$ whoami --full
+### No que estou trabalhando
 
-  NOME      Igor Massaro
-  FUNCAO    Analista de Suporte e Sistemas  ·  10+ anos
-  FORMACAO  Sistemas para Internet  ·  Pos em Engenharia de IA (Impacta)
-  FOCO      Apps desktop, automacao de processos, desenvolvimento com agentes
-  STATUS    aberto a oportunidades
-```
+- **[ConsuCLI](https://github.com/igormassar0)** — ferramenta de linha de comando, em desenvolvimento
+- Automações internas que eliminam trabalho manual repetitivo
 
-<br>
+### Stack
 
-## `//` Sobre
+**Código** `C#` · `.NET` · `WinUI 3` · `Python` · `JavaScript`
+**Plataforma** `Windows API` · `PowerShell` · `Git`
+**IA** `Claude Code` · `desenvolvimento com agentes`
 
-Passei uma década resolvendo o que quebra em ambiente real — suporte, sistemas, infraestrutura e os processos manuais que ninguém tinha tempo de arrumar. Boa parte do que construo nasce daí: automações que devolvem horas para a equipe.
+### Contato
 
-Hoje desenvolvo com agentes de IA como ferramenta principal. O trabalho não é digitar cada linha — é **definir bem o problema, dirigir a construção e validar o resultado**. Na prática: entrego mais rápido, com o critério de quem vai dar suporte àquilo depois.
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/igormassar0/igormassar0/main/assets/stack.svg?v=1" alt="Stack: C#, .NET, WinUI 3, Python, JavaScript, HTML/CSS, Windows API, PowerShell, Git, Claude Code, agentes de IA, automação" width="100%">
-
-</div>
-
-<br>
-
-## `//` O que eu construo
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### ▍Desktop
-Aplicações nativas para Windows, integradas às APIs do sistema.
-
-</td>
-<td width="33%" valign="top">
-
-### ▍Automação
-Rotinas que eliminam trabalho manual repetitivo em operação real.
-
-</td>
-<td width="33%" valign="top">
-
-### ▍Web
-Sites e aplicações, do protótipo ao publicado.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `//` Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-igormassar0-0a0a16?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=05060d)](https://github.com/igormassar0)
-
-<br>
-
-<sub><code>SYS::ONLINE</code> · aberto a oportunidades e a conversar sobre projetos</sub>
-
-</div>
+Aberto a oportunidades — [@igormassar0](https://github.com/igormassar0)
