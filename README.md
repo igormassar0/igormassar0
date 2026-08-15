@@ -8,7 +8,7 @@ Pós-graduando em **Engenharia de IA** na Impacta · Formado em Sistemas para In
 
 ### No que estou trabalhando
 
-- **[ConsuCLI](https://github.com/igormassar0)** — ferramenta de linha de comando, em desenvolvimento
+- **ConsuCLI** — ferramenta de linha de comando, em desenvolvimento
 - Automações internas que eliminam trabalho manual repetitivo
 
 ### Stack
