@@ -1,38 +1,74 @@
-## Igor Massaro
+<div align="center">
 
-**Analista de Suporte e Sistemas** há mais de 10 anos. Hoje construo software com agentes de IA — sites, aplicações desktop e automações internas.
+<img src="https://raw.githubusercontent.com/igormassar0/igormassar0/main/assets/banner.svg?v=1" alt="Igor Massaro — Analista de Sistemas e AI Builder" width="100%">
 
-Formado em **Sistemas para Internet**, cursando pós-graduação em **Engenharia de IA** na Impacta.
+</div>
 
----
+<br>
 
-### No que eu trabalho
+```console
+igor@sistemas:~$ whoami --full
 
-Passei uma década resolvendo o que quebra em ambiente real: suporte, sistemas, infraestrutura e os processos manuais que ninguém tinha tempo de arrumar. Boa parte do que construo nasce daí — automação de rotinas que consumiam horas da equipe.
+  NOME      Igor Massaro
+  FUNCAO    Analista de Suporte e Sistemas  ·  10+ anos
+  FORMACAO  Sistemas para Internet  ·  Pos em Engenharia de IA (Impacta)
+  FOCO      Apps desktop, automacao de processos, desenvolvimento com agentes
+  STATUS    aberto a oportunidades
+```
 
-Hoje uso agentes de IA como ferramenta principal de desenvolvimento. O foco não é escrever cada linha, é definir bem o problema, dirigir a construção e validar o resultado. Na prática isso significa entregar mais rápido, com o mesmo critério de quem vai dar suporte àquilo depois.
+<br>
 
-### Stack e ferramentas
+## `//` Sobre
 
-**Desenvolvimento**
-`C#` · `.NET` · `WinUI 3` · `Python` · `JavaScript` · `HTML/CSS`
+Passei uma década resolvendo o que quebra em ambiente real — suporte, sistemas, infraestrutura e os processos manuais que ninguém tinha tempo de arrumar. Boa parte do que construo nasce daí: automações que devolvem horas para a equipe.
 
-**Plataforma**
-`Windows APIs` · `PowerShell` · `Git`
+Hoje desenvolvo com agentes de IA como ferramenta principal. O trabalho não é digitar cada linha — é **definir bem o problema, dirigir a construção e validar o resultado**. Na prática: entrego mais rápido, com o critério de quem vai dar suporte àquilo depois.
 
-**IA e agentes**
-`Claude Code` · `desenvolvimento assistido por agentes` · `automação de processos`
+<br>
 
-### O que costumo construir
+<div align="center">
 
-- **Aplicações desktop para Windows** — ferramentas nativas, com integração às APIs do sistema
-- **Automações internas** — rotinas que eliminam trabalho manual repetitivo
-- **Sites e aplicações web** — do protótipo ao publicado
+<img src="https://raw.githubusercontent.com/igormassar0/igormassar0/main/assets/stack.svg?v=1" alt="Stack: C#, .NET, WinUI 3, Python, JavaScript, HTML/CSS, Windows API, PowerShell, Git, Claude Code, agentes de IA, automação" width="100%">
 
----
+</div>
 
-### Contato
+<br>
 
-Aberto a oportunidades e a conversar sobre projetos.
+## `//` O que eu construo
 
-[![GitHub](https://img.shields.io/badge/GitHub-igormassar0-181717?style=flat&logo=github)](https://github.com/igormassar0)
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ▍Desktop
+Aplicações nativas para Windows, integradas às APIs do sistema.
+
+</td>
+<td width="33%" valign="top">
+
+### ▍Automação
+Rotinas que eliminam trabalho manual repetitivo em operação real.
+
+</td>
+<td width="33%" valign="top">
+
+### ▍Web
+Sites e aplicações, do protótipo ao publicado.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `//` Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-igormassar0-0a0a16?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=05060d)](https://github.com/igormassar0)
+
+<br>
+
+<sub><code>SYS::ONLINE</code> · aberto a oportunidades e a conversar sobre projetos</sub>
+
+</div>
