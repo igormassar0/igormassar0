@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/igormassar0/igormassar0/main/assets/header.svg?v=2" alt="igor massaro — vibe coder, analista de sistemas" width="100%">
+<img src="https://raw.githubusercontent.com/igormassar0/igormassar0/main/assets/header.svg?v=3" alt="igor massaro — vibe coder, analista de sistemas" width="100%">
 
 **Analista de Suporte e Sistemas há mais de 10 anos.** Hoje construo software com agentes de IA — apps desktop, automações e web.
 

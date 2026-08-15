@@ -2,9 +2,9 @@
   <title>Igor Massaro — vibe coder</title>
   <defs>
     <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"   stop-color="#3fb950"/>
-      <stop offset="55%"  stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="0%"   stop-color="#22d3ee"/>
+      <stop offset="55%"  stop-color="#ff2e97"/>
+      <stop offset="100%" stop-color="#ff2e97" stop-opacity="0"/>
     </linearGradient>
     <style>
       .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
@@ -28,7 +28,7 @@
   <g class="mono">
     <text x="30" y="102" font-size="34" font-weight="600" fill="#e6edf3" letter-spacing="1">igor massaro</text>
     <text x="30" y="136" font-size="16" fill="#7d8590">
-      <tspan fill="#3fb950">$</tspan> <tspan fill="#58a6ff">vibe</tspan> code --ship<tspan class="caret" fill="#e6edf3">▌</tspan>
+      <tspan fill="#22d3ee">$</tspan> <tspan fill="#ff2e97">vibe</tspan> code --ship<tspan class="caret" fill="#22d3ee">▌</tspan>
     </text>
     <text x="30" y="166" font-size="12.5" fill="#6e7681" letter-spacing="0.4">analista de sistemas · 10+ anos · pós em engenharia de IA</text>
   </g>
